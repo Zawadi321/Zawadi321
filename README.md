@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zawadi321
-- 👀 I’m interested in tech
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @zawadi321
