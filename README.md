@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @zawadi321
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: fish can't swim
+- ⚡ Fun fact: fish can swim
 
 <!---
 Zawadi321/Zawadi321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
