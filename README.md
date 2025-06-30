@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Zawadi321
+- 👋 Hi, I’m Zawadi
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on frontend projects 
 - 📫 How to reach me @zawadi321
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: fish can swim
+- ⚡ Fun fact: 
 
 <!---
 Zawadi321/Zawadi321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
